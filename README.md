@@ -1,6 +1,6 @@
 # Chrome-Extension
 
-This is the third project on the Learn Javascript Course on Scrimba and its a chrome extension that saves links and tabs
+This is the third project on the Learn Javascript Course by Scrimba and its a chrome extension that saves links and tabs
 
 To test the project:
 https://chrome-extension11.netlify.app/
