@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    padding: 10px;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding: 6px;
+    border: 1px solid rgb(92, 59, 59);
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+button{
+    padding: 5px 20px;
+    transition: 0.5s;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(0, 181, 0);
+    color: black;
+    border: 1px solid rgb(0, 181, 0);
+}
+button:hover{
+    background-color: rgb(210, 244, 210);
+    color: rgb(0, 181, 0);
+    cursor: pointer;
+}
+#del-btn{
+    background-color: rgb(210, 244, 210);
+    color: rgb(0, 181, 0);
+    border: 1px solid rgb(0, 181, 0);
+}
+#del-btn:hover{
+    background-color: rgb(0, 181, 0);
+    color: black;
+}
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #5f9341;
+}
